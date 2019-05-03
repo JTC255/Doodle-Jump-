@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(dimgrey,black)
+
+}
+TheBananaSupremacy{
+  color:white;
+}
+canvas {
+  background-color: lightgrey;
+}
+h2{
+  font-size:40px;
+  color:white;
+}
+h1{
+  font-size:50px;
+  color:white;
+}
+h4{
+  font-size:30px;
+  color:white;
+}
+.square-border1{
+  
+  Border-color:black;
+  border-width:5px;
+  border-style:solid;
+  
+}
